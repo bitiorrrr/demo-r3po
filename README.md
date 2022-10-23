@@ -4,4 +4,4 @@ my first test! hello world! :)
 
 ## Is this a subheader?
 
-yes it iss
+yes it is
